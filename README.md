@@ -1,8 +1,5 @@
 # Student_performance_analysis
 
-
-# Student Performance Analysis
-
 ## Overview
 This mini project focuses on analyzing student performance data to identify patterns and trends using exploratory data analysis (EDA). The project uses visualizations and summary statistics to understand how different factors relate to academic outcomes.
 
