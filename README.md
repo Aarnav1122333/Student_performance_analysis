@@ -14,7 +14,7 @@ To analyze student performance data and extract meaningful insights using Python
 
 ## Project Structure
 - `Student_Performance_Analysis.ipynb` → Main analysis notebook  
-- `dataset.csv` → Dataset used for analysis  
+- `student_performance_dataset.csv` → Dataset used for analysis  
 - `README.md` → Project overview and instructions  
 
 ## Analysis Performed
